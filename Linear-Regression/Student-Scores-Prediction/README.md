@@ -99,6 +99,5 @@ The following table summarizes the final parameters and Mean Squared Error (MSE)
 <br>
 
 <div align="center">
-  <p>Developed with ❤️ by [Your Name Here]</p>
-  <a href="https://github.com/your-username">GitHub Profile</a>
+  <p>Developed with ❤️ by Sajjad</p>
 </div>
