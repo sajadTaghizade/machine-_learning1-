@@ -82,12 +82,3 @@ The following technologies and libraries are used across the projects in this re
 * **Matplotlib** & **Seaborn** for data visualization.
 * **Scikit-learn** for industry-standard model implementations and evaluation metrics.
 * **Jupyter Notebook** for interactive development and documentation.
-
----
-
-<div align="center">
-  <h3>Connect with Me</h3>
-  <p>Feel free to reach out with any questions or feedback!</p>
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-</div>
