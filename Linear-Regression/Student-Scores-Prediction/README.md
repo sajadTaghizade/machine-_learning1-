@@ -55,7 +55,7 @@ The dataset used is a simple CSV file containing two columns:
 All implementation methods produced nearly identical results, confirming the validity of our manual calculations. The final regression line effectively models the relationship between hours studied and scores.
 
 <div align="center">
-  <img src="./assets/regression_plot.png" alt="Regression Plot" width="600"/>
+  <img src="output.png" alt="Regression Plot" width="600"/>
   <p><i>Best-fit line plotted against the test data.</i></p>
 </div>
 
@@ -83,41 +83,7 @@ A closed-form solution using linear algebra that computes the optimal parameters
 
 </details>
 
----
 
-## 🚀 How to Run This Project
-
-Follow these steps to set up and run the project on your local machine.
-
-### Prerequisites
-Make sure you have Python 3.8+ installed. You will also need the libraries listed in `requirements.txt`.
-
-### Installation
-1.  Clone the main repository:
-    ```sh
-    git clone [https://github.com/your-username/Machine-Learning.git](https://github.com/your-username/Machine-Learning.git)
-    ```
-2.  Navigate to the project directory:
-    ```sh
-    cd Machine-Learning/Linear-Regression/Student-Scores-Prediction
-    ```
-3.  Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-    *(Note: You may need to create a `requirements.txt` file with NumPy, Pandas, Scikit-learn, and Matplotlib).*
-
-### Usage
-You can run the project by executing the main script or Jupyter Notebook:
-```sh
-# If you are using a Python script
-python your_script_name.py
-
-# Or, if you are using a Jupyter Notebook
-jupyter notebook your_notebook_name.ipynb
-```
-
----
 
 ## 🏁 Results Comparison
 
@@ -127,7 +93,7 @@ The following table summarizes the final parameters and Mean Squared Error (MSE)
 |-------------------------|------------------------|--------------------|-----------------|
 | OLS from Scratch        | `2.44`                 | `9.83`             | `17.00`         |
 | Gradient Descent        | `2.38`                 | `9.84`             | `16.95`         |
-| Normal Equation         | `2.44`                 | `9.83`             | `17.00`         |
+| Normal Equation         | `1.86`                 | `9.90`             | `16.99`         |
 | **Scikit-Learn** | **`2.44`** | **`9.83`** | **`17.00`** |
 
 <br>
