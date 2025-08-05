@@ -45,9 +45,11 @@ Here is the current status of the algorithms implemented in this repository.
 * **Projects:**
     * **[Student Scores Prediction](./Linear-Regression/Student-Scores-Prediction):** An in-depth project implementing Linear Regression from scratch in 3 ways (OLS, Gradient Descent, Normal Equation) and comparing them to Scikit-learn.
 
-### 🚧 Logistic Regression
-* **Description:** A classification algorithm used to predict a binary outcome.
-* **Status:** Coming Soon!
+### ✅ Logistic Regression
+* **Description:** A classification algorithm used to predict a binary outcome, typically using the Sigmoid function.
+* **Projects:**
+    * **[Breast Cancer Diagnosis](./Logistic-Regression/Breast-Cancer-Diagnosis):** An implementation from scratch with Gradient Descent, compared against the Scikit-learn library.
+
 
 ### 🚧 K-Nearest Neighbors (KNN)
 * **Description:** A simple, non-parametric algorithm for classification and regression.
