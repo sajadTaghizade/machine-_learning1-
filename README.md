@@ -57,13 +57,17 @@ Here is the current status of the algorithms implemented in this repository.
     * **[Digits Classification from Scratch](./Neural-Networks-MLP/Digits-Classification-from-Scratch):** A detailed implementation of Feedforward and Backpropagation using only NumPy, compared with its Scikit-learn equivalent.
 
 
+### ✅ Decision Trees
+* **Description:** A from-scratch implementation of a CART-like classification tree using Gini Impurity and pre-pruning techniques.
+* **Projects:**
+    * **[Wine Classification from Scratch](./Decision-Trees/Wine-Classification-from-Scratch):** Building a complete Decision Tree class with `fit` and `predict` methods.
+
+
 ### 🚧 K-Nearest Neighbors (KNN)
 * **Description:** A simple, non-parametric algorithm for classification and regression.
 * **Status:** Coming Soon!
 
-### 🚧 Decision Trees & Random Forests
-* **Description:** Versatile algorithms for classification and regression tasks.
-* **Status:** Coming Soon!
+
 
 ---
 
