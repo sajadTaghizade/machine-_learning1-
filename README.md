@@ -51,6 +51,12 @@ Here is the current status of the algorithms implemented in this repository.
     * **[Breast Cancer Diagnosis](./Logistic-Regression/Breast-Cancer-Diagnosis):** An implementation from scratch with Gradient Descent, compared against the Scikit-learn library.
 
 
+### ✅ Neural Networks (MLP)
+* **Description:** An implementation of a Multi-Layer Perceptron, a foundational deep learning model, for classification tasks.
+* **Projects:**
+    * **[Digits Classification from Scratch](./Neural-Networks-MLP/Digits-Classification-from-Scratch):** A detailed implementation of Feedforward and Backpropagation using only NumPy, compared with its Scikit-learn equivalent.
+
+
 ### 🚧 K-Nearest Neighbors (KNN)
 * **Description:** A simple, non-parametric algorithm for classification and regression.
 * **Status:** Coming Soon!
