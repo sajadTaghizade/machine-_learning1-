@@ -63,10 +63,16 @@ Here is the current status of the algorithms implemented in this repository.
     * **[Wine Classification from Scratch](./Decision-Trees/Wine-Classification-from-Scratch):** Building a complete Decision Tree class with `fit` and `predict` methods.
 
 
-### 🚧 K-Nearest Neighbors (KNN)
-* **Description:** A simple, non-parametric algorithm for classification and regression.
-* **Status:** Coming Soon!
+### ✅ K-Nearest Neighbors (KNN)
+* **Description:** A from-scratch implementation of the KNN algorithm, a simple instance-based classifier, including hyperparameter tuning.
+* **Projects:**
+    * **[Iris Classification from Scratch](./K-Nearest-Neighbors/Iris-Classification-from-Scratch):** Building a complete KNN class and finding the optimal K value.
 
+
+### ✅ Clustering Algorithms
+* **Description:** A comparative study of unsupervised clustering techniques to find natural groupings in data.
+* **Projects:**
+    * **[Customer Segmentation Analysis](./Clustering/Customer-Segmentation-Analysis):** Comparing K-Means, Hierarchical Clustering, and DBSCAN on a mall customer dataset.
 
 
 ---
